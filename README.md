@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Victor%20K.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%C2%B7%20AI%20Evaluation%20%C2%B7%20Developer%20Tooling&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/Vick606">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&lines=Building+tools+that+make+AI+systems+measurable;Python+%C2%B7+Docker+%C2%B7+LLM+Evaluation;Currently+shipping+RepoProbe+v0.1.0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&lines=Building+tools+that+make+AI+systems+measurable;Python+%C2%B7+Docker+%C2%B7+LLM+Evaluation" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@ I build tools that make AI systems measurable: running repositories in isolated 
 
 <br>
 
-### Currently building
+### Recent work
 
 **[RepoProbe](https://github.com/Vick606/repo-probe)** — clone, containerize, and test any Python repo, then emit a structured JSON evaluation report.
 
@@ -36,7 +36,7 @@ I build tools that make AI systems measurable: running repositories in isolated 
 
 ### Focus for 2026
 
-Building a portfolio of evaluation and developer-tooling projects. Next up: an issue triage tool for curating bug-fix datasets from real repositories.
+Shipping three evaluation-infrastructure projects in public. RepoProbe is the first. Next: an issue triage tool for curating bug-fix datasets from real repositories.
 
 <br>
 
