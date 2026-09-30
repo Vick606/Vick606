@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Victor%20K.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%C2%B7%20AI%20Security%20%C2%B7%20Developer%20Tooling&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://github.com/Vick606">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&lines=Building+tools+that+make+AI+systems+measurable;and+harder+to+break;Python+%C2%B7+AI+Security+%C2%B7+LLM+Evaluation" alt="Typing SVG" />
-</a>
-
 </div>
 
 <br>
